@@ -1,0 +1,14 @@
+ul{
+    border: 5px solid black;
+    width: 1500vw;
+    height: 10vh;
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    column-gap: 100px;
+}
+
+h2{
+    font-size: 5rem;
+    text-shadow: 7px 7px 2px royalblue;
+}
